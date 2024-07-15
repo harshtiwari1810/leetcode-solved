@@ -5,6 +5,7 @@ class Solution:
         
         if (len(mergeList)%2 != 0):
             mid = len(mergeList)//2
+            
             return mergeList[mid]
             
         else:
