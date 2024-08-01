@@ -12,3 +12,4 @@ class Solution:
             ans = (mergeList[mid] + mergeList[mid-1])/2
             return ans
 
+
